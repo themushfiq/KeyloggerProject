@@ -1,6 +1,6 @@
 # KeyloggerProject
 
-ABSTRACT
+ABSTRACT:
 This is a surveillance application used to track the users which logs keystrokes; and uses log 
 files to retrieve information. Using this application we can recall forgotten emails or URLs. 
 In this keylogger project, whenever the user types something through the keyboard, the 
@@ -22,7 +22,7 @@ Languages: Python
 Tools: PyCharm, Python 3.8.0 
 Technology: Advanced programming using Python
 
-Purpose 
+Purpose:
 The main objective of this document is to illustrate the requirements of the project 
 Keylogger. Nowadays IT business infrastructures are mostly in need of the cyber security 
 factor that is Computer Forensics. Keyloggers can effectively assist a computer forensics 
